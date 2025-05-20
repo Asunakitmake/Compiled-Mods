@@ -1,7 +1,39 @@
 # Compiled-Mods
 List of Compiled Mods
+>Mostly untested, up to you.
 
-## Utility Mods
+## Player Visual Mods
+[Self Portrait - READ CAREFULLY] (https://www.nexusmods.com/sunhaven/mods/329)
+
+[9 cute hairstyles package] (https://www.nexusmods.com/sunhaven/mods/80)
+
+[Bigger eyes by Sabina] (https://www.nexusmods.com/sunhaven/mods/179)
+
+[Centered Halos] (https://www.nexusmods.com/sunhaven/mods/61)
+
+[Jeen's 99.9 percent vanilla colored hair salon] (https://www.nexusmods.com/sunhaven/mods/356)
+
+[Mae's Colourful Elves] (https://www.nexusmods.com/sunhaven/mods/200)
+
+[Gilded Demon Horns] (https://www.nexusmods.com/sunhaven/mods/308)
+
+[Rough Aurora hair] (https://www.nexusmods.com/sunhaven/mods/196)
+
+[Cute Pigtails Hairstyle] (https://www.nexusmods.com/sunhaven/mods/218)
+
+[RainWooki Mod list] (https://next.nexusmods.com/profile/RainWooki/mods?gameId=3892)
+
+[bluesummerday Mod list] (https://next.nexusmods.com/profile/bluesummerday/mods?gameId=3892)
+
+[redvampy Mod list] (https://next.nexusmods.com/profile/redvampy/mods?gameId=3892)
+
+[WovenViper Mod list] (https://next.nexusmods.com/profile/WovenViper/mods?gameId=3892)
+
+[edsygaming Mod list] (https://next.nexusmods.com/profile/edsygaming/mods?gameId=3892)
+
+[IlucieYt Mod list] (https://next.nexusmods.com/profile/IlucieYt/mods?gameId=3892)
+
+
 
 
 
